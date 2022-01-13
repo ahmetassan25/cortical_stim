@@ -1,4 +1,3 @@
-nnw
 clear all
 close all
 clc
